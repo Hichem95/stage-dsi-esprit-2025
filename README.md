@@ -60,7 +60,7 @@ stage-dsi-esprit-2025/
 ## 📊 Architecture du Projet
 
 <p align="center">
-  <img src="docs/architecture.png" width="750" alt="Architecture du projet">
+  <img src="docs/images/architecture.png" width="750" alt="Architecture du projet">
 </p>
 
 **🧩 Description du flux :**
@@ -111,7 +111,7 @@ stage-dsi-esprit-2025/
 ## 🧾 Extrait du Workflow ETL
 
 <p align="center">
-  <img src="docs/workflow_pentaho.png" width="750" alt="Workflow Pentaho">
+  <img src="docs/images/pentaho.png" width="750" alt="Workflow Pentaho">
 </p>
 *(Capture du job Pentaho représentant le flux SA → DW)*
 
