@@ -64,6 +64,7 @@ stage-dsi-esprit-2025/
 ├── .gitignore
 ├── .gitattributes
 └── README.md
+```
 
 </details>
 
