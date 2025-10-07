@@ -1,0 +1,24 @@
+﻿# Windows / IDE
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+.vscode/
+.idea/
+
+# Power BI
+*.pbix.tmp
+*.pdf
+*.png
+*.jpg
+
+# Données
+data/
+*.zip
+*.7z
+*.tar
+*.backup
+
+# Pentaho
+.kettle/
+.cache/
