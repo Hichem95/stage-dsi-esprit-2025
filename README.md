@@ -1,7 +1,7 @@
 ﻿<!-- 🌐 README professionnel - Projet de Stage DSI ESPRIT (style rouge & gris) -->
 
 <p align="center">
-  <img src="docs/images/esprit_logo.png" alt="Logo ESPRIT" width="160">
+  <img src="docs/images/esprit-logo.png" alt="Logo ESPRIT" width="160">
 </p>
 
 
