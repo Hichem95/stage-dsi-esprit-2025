@@ -49,6 +49,8 @@ Il consiste à concevoir un **entrepôt de données académique** complet et aut
 <details>
 <summary><b>📂 Voir la structure complète</b></summary>
 
+<br>
+
 ```bash
 stage-dsi-esprit-2025/
 │
