@@ -1,7 +1,7 @@
 ﻿<!-- 🌐 README professionnel - Projet de Stage DSI ESPRIT (style rouge & gris) -->
 
 <p align="center">
-  <img src="docs/banners/esprit_stage_banner.gif" alt="Bannière ESPRIT Stage DSI 2025" width="100%">
+  <img src="docs/images/esprit_logo.png" alt="Logo ESPRIT" width="160">
 </p>
 
 
@@ -11,10 +11,13 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Statut-En%20Cours-c80000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/École-ESPRIT-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Technologies-BI%20%7C%20ETL%20%7C%20DW-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Outils-Pentaho%20%7C%20PostgreSQL%20%7C%20PowerBI-c80000?style=for-the-badge" />
+  <img src="docs/images/pentaho.png" alt="Pentaho" height="28">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/images/postgresql.png" alt="PostgreSQL" height="28">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/images/powerbi.png" alt="Power BI" height="28">
+  &nbsp;&nbsp;&nbsp;
+  <img src="docs/images/github.png" alt="GitHub" height="28">
 </p>
 
 ---
@@ -57,7 +60,7 @@ stage-dsi-esprit-2025/
 ## 📊 Architecture du Projet
 
 <p align="center">
-  <img src="https://github.com/Hichem95/stage-dsi-esprit-2025/assets/architecture_diagram_esprit.png" width="750" alt="Architecture projet"/>
+  <img src="docs/architecture.png" width="750" alt="Architecture du projet">
 </p>
 
 **🧩 Description du flux :**
@@ -108,9 +111,8 @@ stage-dsi-esprit-2025/
 ## 🧾 Extrait du Workflow ETL
 
 <p align="center">
-  <img src="https://github.com/Hichem95/stage-dsi-esprit-2025/assets/pentaho_workflow_sample.png" alt="Workflow Pentaho" width="750"/>
+  <img src="docs/workflow_pentaho.png" width="750" alt="Workflow Pentaho">
 </p>
-
 *(Capture du job Pentaho représentant le flux SA → DW)*
 
 ---
