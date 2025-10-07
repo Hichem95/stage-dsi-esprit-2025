@@ -1,4 +1,4 @@
-﻿<!-- 🌐 README professionnel - Projet de Stage DSI ESPRIT (version rouge & gris) -->
+﻿<!-- 🌐 README professionnel - Projet de Stage DSI ESPRIT (style rouge & gris) -->
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_ESPRIT_Ariana.png" alt="Logo ESPRIT" width="120"/>
@@ -24,7 +24,7 @@ Ce projet est réalisé dans le cadre du **stage ingénieur à la DSI d’ESPRIT
 Il consiste à concevoir un **entrepôt de données académique** complet et automatisé, accompagné de **tableaux de bord Power BI** pour le suivi des indicateurs clés.
 
 🎯 **Objectif principal :**
-> Construire une infrastructure BI permettant la centralisation, la transformation et la visualisation de données académiques.
+> Construire une infrastructure BI permettant la centralisation, la transformation et la visualisation des données académiques.
 
 ---
 
@@ -42,3 +42,84 @@ Il consiste à concevoir un **entrepôt de données académique** complet et aut
 
 ## 🧱 Structure du dépôt
 
+stage-dsi-esprit-2025/
+├── pentaho/ → Jobs & Transformations (.ktr / .kjb)
+├── sql/ → Scripts SQL (DDL, DML, vues, seeds)
+├── powerbi/ → Rapports Power BI (.pbix)
+├── docs/ → Journal de bord, schémas techniques
+├── data/ → Jeux de données anonymisés
+├── .gitignore
+├── .gitattributes
+└── README.md
+
+---
+
+## 📊 Architecture du Projet
+
+<p align="center">
+  <img src="https://github.com/Hichem95/stage-dsi-esprit-2025/assets/architecture_diagram_esprit.png" width="750" alt="Architecture projet"/>
+</p>
+
+**🧩 Description du flux :**
+1. Extraction des données sources académiques vers la *Staging Area (SA)*.  
+2. Nettoyage, transformation et chargement vers le *Data Warehouse (DW)*.  
+3. Visualisation et analyse dans Power BI avec indicateurs dynamiques.  
+
+---
+
+## ⚙️ Fonctionnalités Clés
+
+- 🔄 **Processus ETL automatisé** (de la SA vers le DW).  
+- 🧹 **Nettoyage et normalisation** des données académiques (notes, modules, étudiants).  
+- 🧩 **Modélisation dimensionnelle** en étoile (dimensions et faits).  
+- 📈 **Tableaux de bord Power BI** interactifs pour la direction et les départements.  
+- 🧾 **Documentation et journal de bord** détaillant chaque étape du flux.  
+
+---
+
+## 🤝 Encadrement
+
+- 👨‍💼 **Encadrant professionnel :** Équipe DSI ESPRIT  
+- 👨‍🏫 **Encadrant académique :** Département BI & Data Science  
+- 👨‍💻 **Stagiaire :** *Hichem Challakhi*
+
+---
+
+## 🏁 Livrables
+
+- 📦 Entrepôt de données PostgreSQL (schéma SA & DW)  
+- ⚙️ Jobs Pentaho ETL complets  
+- 📊 Tableau de bord Power BI interactif  
+- 🗒️ Documentation technique et rapport de stage  
+
+---
+
+## 💡 Outils et Environnement
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pentaho%20PDI-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAHElEQVQYV2NkQAP/GaIY/jNgQAcYBoYIg4HAAJ6UBQPw2zjUAAAAASUVORK5CYII=" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 🧾 Extrait du Workflow ETL
+
+<p align="center">
+  <img src="https://github.com/Hichem95/stage-dsi-esprit-2025/assets/pentaho_workflow_sample.png" alt="Workflow Pentaho" width="750"/>
+</p>
+
+*(Capture du job Pentaho représentant le flux SA → DW)*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20at-ESPRIT-c80000?style=for-the-badge" />
+</p>
+
+<p align="center" style="color:#777;">
+  © 2025 Hichem Challakhi — Projet académique sous encadrement DSI ESPRIT
+</p>
