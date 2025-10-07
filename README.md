@@ -1,7 +1,7 @@
 ﻿<!-- 🌐 README professionnel - Projet de Stage DSI ESPRIT (style rouge & gris) -->
 
 <p align="center">
-  <img src="docs/images/esprit-logo.png" alt="Logo ESPRIT" width="160">
+  <img src="assets/docs/images/esprit-logo.png" alt="Logo ESPRIT" width="160">
 </p>
 
 
@@ -11,13 +11,13 @@
 ---
 
 <p align="center">
-  <img src="docs/images/pentaho.png" alt="Pentaho" height="28">
+  <img src="assets/docs/images/pentaho.png" alt="Pentaho" height="28">
   &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/postgresql.png" alt="PostgreSQL" height="28">
+  <img src="assets/docs/images/postgresql.png" alt="PostgreSQL" height="28">
   &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/powerbi.png" alt="Power BI" height="28">
+  <img src="assets/docs/images/powerbi.png" alt="Power BI" height="28">
   &nbsp;&nbsp;&nbsp;
-  <img src="docs/images/github.png" alt="GitHub" height="28">
+  <img src="assets/docs/images/github.png" alt="GitHub" height="28">
 </p>
 
 ---
@@ -73,7 +73,7 @@ stage-dsi-esprit-2025/
 ## 📊 Architecture du Projet
 
 <p align="center">
-  <img src="docs/images/architecture.png" width="750" alt="Architecture du projet">
+  <img src="assets/docs/images/architecture.png" width="750" alt="Architecture du projet">
 </p>
 
 **🧩 Description du flux :**
@@ -124,7 +124,7 @@ stage-dsi-esprit-2025/
 ## 🧾 Extrait du Workflow ETL
 
 <p align="center">
-  <img src="docs/images/pentaho.png" width="750" alt="Workflow Pentaho">
+  <img src="assets/docs/images/pentaho.png" width="750" alt="Workflow Pentaho">
 </p>
 *(Capture du job Pentaho représentant le flux SA → DW)*
 
