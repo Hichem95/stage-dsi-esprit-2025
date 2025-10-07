@@ -1,8 +1,9 @@
 ﻿<!-- 🌐 README professionnel - Projet de Stage DSI ESPRIT (style rouge & gris) -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Logo_ESPRIT_Ariana.png" alt="Logo ESPRIT" width="120"/>
+  <img src="docs/banners/esprit_stage_banner.gif" alt="Bannière ESPRIT Stage DSI 2025" width="100%">
 </p>
+
 
 <h1 align="center" style="color:#c80000;">🎓 Stage DSI ESPRIT 2025</h1>
 <h3 align="center" style="color:#555;">Entrepôt de Données Académique et Reporting Power BI</h3>
@@ -51,7 +52,6 @@ stage-dsi-esprit-2025/
 ├── .gitignore
 ├── .gitattributes
 └── README.md
-
 ---
 
 ## 📊 Architecture du Projet
@@ -101,7 +101,6 @@ stage-dsi-esprit-2025/
   <img src="https://img.shields.io/badge/Pentaho%20PDI-orange?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAHElEQVQYV2NkQAP/GaIY/jNgQAcYBoYIg4HAAJ6UBQPw2zjUAAAAASUVORK5CYII=" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
