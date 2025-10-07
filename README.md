@@ -46,15 +46,24 @@ Il consiste à concevoir un **entrepôt de données académique** complet et aut
 
 ## 🧱 Structure du dépôt
 
+<details>
+<summary><b>📂 Voir la structure complète</b></summary>
+
+```bash
 stage-dsi-esprit-2025/
-├── pentaho/ → Jobs & Transformations (.ktr / .kjb)
-├── sql/ → Scripts SQL (DDL, DML, vues, seeds)
-├── powerbi/ → Rapports Power BI (.pbix)
-├── docs/ → Journal de bord, schémas techniques
-├── data/ → Jeux de données anonymisés
+│
+├── 🧩 pentaho/           # Jobs & Transformations (.ktr / .kjb)
+├── 🗄️ sql/               # Scripts SQL (DDL, DML, vues, seeds)
+├── 📊 powerbi/           # Rapports Power BI (.pbix)
+├── 📚 docs/              # Journal de bord, schémas techniques, images
+│   └── images/           # Logos, architecture, workflow
+├── 📁 data/              # Jeux de données anonymisés
+│
 ├── .gitignore
 ├── .gitattributes
 └── README.md
+</details>
+
 ---
 
 ## 📊 Architecture du Projet
