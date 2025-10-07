@@ -97,7 +97,7 @@ stage-dsi-esprit-2025/
 
 - 👨‍💼 **Encadrant professionnel :** Équipe DSI ESPRIT  
 - 👨‍🏫 **Encadrant académique :** Département BI & Data Science  
-- 👨‍💻 **Stagiaire :** *Hichem Challakhi*
+- 👨‍💻 **Stagiaire :** *Yosra Challakhi*
 
 ---
 
@@ -131,9 +131,15 @@ stage-dsi-esprit-2025/
 ---
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/yousra-challekh-b2722427b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yosra%20Challakhi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20at-ESPRIT-c80000?style=for-the-badge" />
 </p>
 
 <p align="center" style="color:#777;">
-  © 2025 Hichem Challakhi — Projet académique sous encadrement DSI ESPRIT
+  © 2025 Yosra Challakhi — Projet académique sous encadrement DSI ESPRIT
 </p>
